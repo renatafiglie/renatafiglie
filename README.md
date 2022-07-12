@@ -1,4 +1,6 @@
-## Oi, aqui é a Rê! Sou chef de cozinha e desenvolvedora em formação.
+## Oi, aqui é a Rê! 
+<br>
+Sou chef de cozinha e desenvolvedora em formação.
 
 <div align="center" style="width: 100%; display: inline_block;">
 
