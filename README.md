@@ -18,7 +18,8 @@
   <a href="https://www.instagram.com/refiglie/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-renata-figlié-1154769a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/renatafiglie/renatafiglie/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/renatafiglie/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
  
