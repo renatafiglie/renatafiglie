@@ -1,5 +1,4 @@
-## 🙋🏻‍♀️ Sou a Renata Figlié, mas pode me chamar de Rê. 
-Sou chef de cozinha e desenvolvedora em formação!
+## 🙋🏻‍♀️ Oi, eu sou a Rê! Sou chef de cozinha e desenvolvedora em formação!
 <div align="center">
   <a href="https://github.com/renatafiglie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatafiglie&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
