@@ -1,15 +1,15 @@
 ## 🙋🏻‍♀️ Oi, aqui é a Re! Sou chef de cozinha e desenvolvedora em formação.
-<div align="center">
-  <a href="https://github.com/renatafiglie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatafiglie&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatafiglie&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<div align="center" style="width: 100%; display: inline_block;">
+
+ <a href="https://github.com/renatafiglie">
+ <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=giovanesouza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
  
+ <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatafiglie&layout=compact&langs_count=7&theme=cobalt"/>
+
 </div>
+
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=giovanesouza&label=Profile%20views&color=0e75b6&style=flat" alt="renatafiglie" /> </p>
   
   ##
  
@@ -21,3 +21,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
