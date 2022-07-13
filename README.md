@@ -4,7 +4,7 @@
 <div align="center" style="width: 100%; display: inline_block;">
 
  <a href="https://github.com/renatafiglie">
- <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=giovanesouza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+ <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=renatafiglie&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
  
  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatafiglie&layout=compact&langs_count=7&theme=cobalt"/>
 
